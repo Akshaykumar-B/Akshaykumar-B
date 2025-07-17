@@ -1,9 +1,9 @@
-<!-- 🌟 Glowing Spark Name -->
+<!-- 🌟 Neon Spark Name -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=⚡%20Hi,%20I'm%20Akshay%20Kumar%20⚡&width=800&height=150" alt="Glowing Spark Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&color=00FF00&center=true&vCenter=true&width=800&lines=⚡+Hi%2C+I'm+Akshay+Kumar+⚡;CSE+(AI+%26+DS)+Student;Future+AI+Engineer;Lifelong+Learner+🚀" alt="Akshay Kumar Neon" />
 </p>
 
-<!-- 🌟 Badges & Profile Views -->
+<!-- 🌟 Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akshaykumar-B&label=Profile+Views&color=brightgreen&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Akshaykumar-B?style=for-the-badge&color=blue" />
