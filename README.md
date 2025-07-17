@@ -1,6 +1,6 @@
-<!-- 🌟 Sparkling Banner -->
+<!-- 🌟 Animated Name -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshaykumar-B/Akshaykumar-B/main/banner.png" alt="Hi, I'm Akshay Kumar Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=3000&pause=500&lines=⚡+Hi%2C+I'm+Akshay+Kumar;🚀+Future+AI+Engineer;💻+CSE+(AI+%26+DS)+Student;🌟+Lifelong+Learner!" alt="Typing Animation" />
 </p>
 
 <!-- 🌟 Badges & Profile Views -->
@@ -24,7 +24,7 @@
 ## 🌟 Featured Project  
 
 ### 🖥️ **System Performance Analyzer**  
-A simple Python tool that monitors **CPU, RAM & Disk Usage** in real-time  
+A Python tool that monitors **CPU, RAM & Disk Usage** in real-time  
 
 👉 [**View Project Repository**](https://github.com/Akshaykumar-B/System-Performance-Analyzer)  
 
