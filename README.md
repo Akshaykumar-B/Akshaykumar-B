@@ -1,7 +1,11 @@
-<!-- 🌟 Animated Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Akshay+Kumar!;🚀+AI+%26+Data+Science+Student;💻+Future+AI+Engineer;🌱+Lifelong+Learner" />
-</p>
+<!-- 🌟 Profile Header with Gradient Color -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff0000, #ff7300, #ffeb00, #47ff00, #00ffee, #2b65ff, #8000ff, #ff0080); -webkit-background-clip: text; color: transparent;">
+    👋 Hi, I'm Akshay Kumar
+  </span>
+</h1>
+
+<h3 align="center">🚀 CSE (AI & DS) Student | Future AI Engineer | Lifelong Learner</h3>
 
 <!-- 🌟 Badges & Profile Views -->
 <p align="center">
@@ -36,7 +40,15 @@ A simple Python tool that monitors **CPU, RAM & Disk Usage** in real-time
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-red?style=for-the-badge"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshaykumar-B&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -46,14 +58,6 @@ A simple Python tool that monitors **CPU, RAM & Disk Usage** in real-time
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akshaykumar-B&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaykumar-B&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
