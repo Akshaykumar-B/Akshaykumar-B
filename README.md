@@ -1,6 +1,6 @@
-<!-- 🌟 Neon Glitch + Scroll Animation -->
+<!-- 🌟 Neon Blink Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=38&pause=1000&color=90EE90&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Akshay+Kumar;🚀+Future+AI+Engineer" alt="Akshay Kumar Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=90EE90&center=true&vCenter=true&width=900&lines=⚡+Hi%2C+I'm+Akshay+Kumar%2C+Futuristic+Engineer+⚡" alt="Akshay Kumar Neon Blink" />
 </p>
 
 <!-- 🌟 Badges -->
