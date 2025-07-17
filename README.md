@@ -1,11 +1,7 @@
-<!-- 🌟 Profile Header with Gradient Color -->
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff0000, #ff7300, #ffeb00, #47ff00, #00ffee, #2b65ff, #8000ff, #ff0080); -webkit-background-clip: text; color: transparent;">
-    👋 Hi, I'm Akshay Kumar
-  </span>
-</h1>
-
-<h3 align="center">🚀 CSE (AI & DS) Student | Future AI Engineer | Lifelong Learner</h3>
+<!-- 🌟 Sparkling Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshaykumar-B/Akshaykumar-B/main/banner.png" alt="Hi, I'm Akshay Kumar Banner" />
+</p>
 
 <!-- 🌟 Badges & Profile Views -->
 <p align="center">
